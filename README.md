@@ -11,16 +11,16 @@ Categories & Glass Types: Organize cocktails by categories and recommended glass
 ## 📱 Screenshots
 
 ### Home Page
-![Home Page](1.png)
+<img src="1.png" alt="Home Page" width="400"/>
 
 ### Cocktail Details
-![Cocktail Details](2.png)
+<img src="2.png" alt="Cocktail Details" width="400"/>
 
 ### Add a New Cocktail
-![Add New Cocktail](3.png)
+<img src="3.png" alt="Add New Cocktail" width="400"/>
 
 ### Edit Cocktail
-![Edit Cocktail](4.png)
+<img src="4.png" alt="Edit Cocktail" width="400"/>
 
 🚀 Getting Started
 Follow these instructions to set up and run the project locally.
