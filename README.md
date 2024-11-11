@@ -1,17 +1,33 @@
-# barad
+🍸 Cocktail Flutter App
+Welcome to Cocktail Flutter App, a beautifully designed app built with Flutter for cocktail enthusiasts. Whether you’re an amateur mixologist or a professional bartender, this app provides you with everything you need to craft delicious cocktails. Explore recipes, add your custom creations, and enjoy a sleek, intuitive interface designed for ease of use and aesthetics.
 
-A new Flutter project.
+🌟 Features
+View Cocktail Recipes: Browse a collection of cocktail recipes with detailed instructions, ingredient lists, and serving suggestions.
+Custom Cocktail Creation: Add your own cocktails with images, ingredients, and instructions.
+Edit & Delete: Easily edit and remove your cocktails.
+Image Support: Take or select photos for each cocktail.
+Categories & Glass Types: Organize cocktails by categories and recommended glass types for an authentic experience.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+### Home Page
+![Home Page](1.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Cocktail Details
+![Cocktail Details](2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Add a New Cocktail
+![Add New Cocktail](3.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# cocktail-flutter
+### Edit Cocktail
+![Edit Cocktail](4.png)
+
+🚀 Getting Started
+Follow these instructions to set up and run the project locally.
+
+Prerequisites
+Ensure you have the following installed:
+
+Flutter
+Android Studio or Xcode for iOS development
+Installation
