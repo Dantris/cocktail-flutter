@@ -10,16 +10,16 @@ Categories & Glass Types: Organize cocktails by categories and recommended glass
 
 ## 📱 Screenshots
 
-### Home Page
+### Details Page
 <img src="1.png" alt="Home Page" width="400"/>
 
-### Cocktail Details
+### Edit Cocktail
 <img src="2.png" alt="Cocktail Details" width="400"/>
 
 ### Add a New Cocktail
 <img src="3.png" alt="Add New Cocktail" width="400"/>
 
-### Edit Cocktail
+### Cocktail list alphabetical
 <img src="4.png" alt="Edit Cocktail" width="400"/>
 
 🚀 Getting Started
